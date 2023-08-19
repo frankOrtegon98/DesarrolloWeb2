@@ -6,6 +6,11 @@ header {
     padding: 1rem;
 }
 
+h1#titulo-principal{
+    margin: 30px;
+    font-size: 58px;
+}
+
 /* Estilos para el párrafo */
 main {
     margin: 20px;
