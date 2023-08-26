@@ -59,7 +59,7 @@ h1 {
     margin-bottom: 20px;
 }
 
-form {
+.container:nth-child(2) {
     display: grid;
     grid-gap: 10px;
 }
